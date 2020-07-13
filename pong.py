@@ -1,4 +1,4 @@
-#Simple Pong GAME made using Python following Youtube :)    =>#Learning
+#Simple Pong GAME inspired by Youtube :)    =>#Learning # Modified
 
 ## Getting Started
 import turtle    
